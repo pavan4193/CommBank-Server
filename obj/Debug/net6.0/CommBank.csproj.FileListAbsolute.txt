@@ -45,3 +45,6 @@
 /Users/pavanchotu/Downloads/CommBank-Server-main/CommBank-Server/obj/Debug/net6.0/CommBank-Server.pdb
 /Users/pavanchotu/Downloads/CommBank-Server-main/CommBank-Server/obj/Debug/net6.0/CommBank.genruntimeconfig.cache
 /Users/pavanchotu/Downloads/CommBank-Server-main/CommBank-Server/obj/Debug/net6.0/ref/CommBank-Server.dll
+/Users/pavanchotu/Downloads/CommBank-Server-main/CommBank-Server/bin/Debug/net6.0/AWSSDK.Core.dll
+/Users/pavanchotu/Downloads/CommBank-Server-main/CommBank-Server/bin/Debug/net6.0/AWSSDK.SecurityToken.dll
+/Users/pavanchotu/Downloads/CommBank-Server-main/CommBank-Server/obj/Debug/net6.0/CommBank.sourcelink.json
